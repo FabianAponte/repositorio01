@@ -1,4 +1,3 @@
-package EjerciciosJava;
 import java.util.Scanner;
 
  public class Otro {
@@ -9,6 +8,8 @@ import java.util.Scanner;
         String cadena;
         System.out.println("Introduce un nombre: ");
         cadena = sc.nextLine();
-        System.out.println("Buenos Días " + cadena);                                               
+        System.out.println("Buenos Días " + cadena);
+        sc.close(); //Cierra el scanner                                               
+
     }
 }

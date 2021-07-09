@@ -1,4 +1,3 @@
-package EjerciciosJava;
 public class ManipularCadena { //Método principal
     public static void main(String[] args){        
 	var cadena = "El perro (Canis familiaris o Canis lupus familiaris dependiendo de si se lo considera una especie por derecho propio o una subespecie del lobo"; //asigno valor a la variable cadena
